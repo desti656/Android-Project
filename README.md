@@ -1,7 +1,7 @@
 # Android-Project
 
 Nim : E41200779
-Nama : Desti
+Nama : Desti Fitri Aisyah Putri
 Prodi : TIF B
 
 # Output
