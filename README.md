@@ -14,4 +14,10 @@ Prodi : TIF B
 ![01557111-fdc0-418a-9a0b-966d8defb498](https://user-images.githubusercontent.com/80672962/137121746-dc40c0b3-7b1b-4535-acec-066075a032f3.jpg)
 ![cfd906e9-1327-4382-8fe7-03110a81ca03](https://user-images.githubusercontent.com/80672962/137121754-e2a1dcc4-59a5-4d06-b57f-13629e5b685a.jpg)
 ![e56667c3-9db8-4a52-ab60-47bbe0f2fae2](https://user-images.githubusercontent.com/80672962/137121794-17e331a9-c244-4333-a7f1-99854493e1d1.jpg)
+# Output
+# Intent Explicit-Implicit
+https://user-images.githubusercontent.com/80672962/137558812-450c96d1-e371-4107-a3db-c49c3af289d9.PNG
+https://user-images.githubusercontent.com/80672962/137558815-38625b16-3cf6-4b65-8e3c-afd9349b7512.PNG
+https://user-images.githubusercontent.com/80672962/137558817-9a81c5f1-078e-4485-90f3-6b953922a9c6.PNG
+
 
