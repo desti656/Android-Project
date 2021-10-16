@@ -16,8 +16,10 @@ Prodi : TIF B
 ![e56667c3-9db8-4a52-ab60-47bbe0f2fae2](https://user-images.githubusercontent.com/80672962/137121794-17e331a9-c244-4333-a7f1-99854493e1d1.jpg)
 # Output
 # Intent Explicit-Implicit
-https://user-images.githubusercontent.com/80672962/137558812-450c96d1-e371-4107-a3db-c49c3af289d9.PNG
-https://user-images.githubusercontent.com/80672962/137558815-38625b16-3cf6-4b65-8e3c-afd9349b7512.PNG
-https://user-images.githubusercontent.com/80672962/137558817-9a81c5f1-078e-4485-90f3-6b953922a9c6.PNG
+<img width="294" alt="Capture" src="https://user-images.githubusercontent.com/80672962/137578676-cce9d732-c6ee-4d6e-999c-a018c5f68aba.PNG"
+<img width="265" alt="Capture2" src="https://user-images.githubusercontent.com/80672962/137578702-6536632a-0414-4db0-a12a-738a6e77309c.PNG">
+<img width="288" alt="Capture3" src="https://user-images.githubusercontent.com/80672962/137578711-00eda8a0-2806-4a23-bf16-63fd5476653f.PNG">
+>
+
 
 
