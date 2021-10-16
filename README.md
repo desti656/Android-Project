@@ -19,8 +19,7 @@ Prodi : TIF B
 <img width="294" alt="Capture" src="https://user-images.githubusercontent.com/80672962/137578676-cce9d732-c6ee-4d6e-999c-a018c5f68aba.PNG"
 <img width="265" alt="Capture2" src="https://user-images.githubusercontent.com/80672962/137578702-6536632a-0414-4db0-a12a-738a6e77309c.PNG">
 <img width="288" alt="Capture3" src="https://user-images.githubusercontent.com/80672962/137578711-00eda8a0-2806-4a23-bf16-63fd5476653f.PNG">
-
-https://github.com/desti656/Android-Project/issues/3#issue-1027855892
+>
 
 
 
